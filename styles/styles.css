@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(189, 189, 189);
+}
+/* Estilo para las tarjetas de productos disponibles y en el carrito*/
+.card {
+    background-color: rgb(110, 108, 108);
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;    
+}
+/* Estilo para los botones */
+.button {
+    margin: 10px;
+    border-radius: 10px;
+}
+/* Estilo para el título de las tarjetas */
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+/* Estilo para los textos de las tarjetas */
+.card-text {
+    font-size: 16px;
+    text-align: left;
+}
+/* Estilo para el precio en las tarjetas de productos disponibles */
+.precio {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+/* Estilo para el subtotal en las tarjetas del carrito */
+.subtotal {
+    font-size: 18px;
+    text-align: left;
+    font-weight: bold;
+}
