@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombreProducto": "Muzzarella",
+        "descripcion": "Salsa de tomate, muzzarella, orégano y aceitunas.",
+        "precio": 3000,
+        "imagen": "./assets/pizza-muzarella.png",
+        "cantidad": 0
+    },
+    {
+        "id": 2,
+        "nombreProducto": "Napolitana",
+        "descripcion": "Salsa de tomate, muzzarella, jamón, rodajas de tomate, orégano y aceitunas.",
+        "precio": 3200,
+        "imagen": "./assets/pizza-napolitana.png",
+        "cantidad": 0
+    },
+    {
+        "id": 3,
+        "nombreProducto": "Fugazzeta",
+        "descripcion": "Muzzarella, cebolla, orégano y aceitunas.",
+        "precio": 3400,
+        "imagen": "./assets/pizza-fugazzeta.png",
+        "cantidad": 0
+    },
+    {
+        "id": 4,
+        "nombreProducto": "Roquefort",
+        "descripcion": "Salsa de tomate, roquefort, muzzarella, orégano y aceitunas.",
+        "precio": 3600,
+        "imagen": "./assets/pizza-roquefort.png",
+        "cantidad": 0
+    },
+    {
+        "id": 5,
+        "nombreProducto": "Palmitos",
+        "descripcion": "Salsa de tomate, muzzarella, jamón, palmitos, salsa golf, orégano y aceitunas.",
+        "precio": 3800,
+        "imagen": "./assets/pizza-palmitos.png",
+        "cantidad": 0
+    },
+    {
+        "id": 6,
+        "nombreProducto": "Calabresa",
+        "descripcion": "Salsa de tomate, muzzarella, calabresa, orégano y aceitunas.",
+        "precio": 4000,
+        "imagen": "./assets/pizza-calabresa.png",
+        "cantidad": 0
+    }
+]
