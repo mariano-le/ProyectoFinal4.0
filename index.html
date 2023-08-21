@@ -13,15 +13,10 @@
 <body>
     <div class="container">
         <h1 class="display-1 text-primary">Pizzas Online</h1>
-        <div id="productos" class="row"></div> <!-- Las tarjetas de productos se generarán aquí -->
-        <h2 class="display-4 text-primary">Carrito</h2>        
-        <div id="carrito" class="row"></div> <!-- Las tarjetas de productos se generarán aquí -->        
-        <div>
-            <h3 id="totalCompra" class="text-primary"></h3>
-            <button class="button btn btn-success" id="btnConfirmarCompra">Confirmar Compra</button>
-            <button class="button btn btn-danger" id="btnVaciarCarrito">Vaciar Carrito</button>
-            <button class="button btn btn-danger" id="btnEliminar">Eliminar</button>           
-        </div>
+        <div id="productos" class="row"></div>
+        <button class="btn btn-primary" id="btnAbrirCarrito">
+            <i class="fas fa-shopping-cart"></i> Ver Carrito
+        </button>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.27/dist/sweetalert2.all.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
